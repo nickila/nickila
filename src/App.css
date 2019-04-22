@@ -3,13 +3,14 @@ body {
   color: #2b2f33;
   font-family: 'Montserrat', sans-serif;
   font-weight: 300;
+  margin-bottom: 100px;
 }
 
 .name {
   font-size: 7.5rem;
   font-family: 'Playfair Display', serif;
   line-height: 1;
-  color: #394652;
+  color: #3f4d5a;
 }
 
 .about {
@@ -19,21 +20,26 @@ body {
 }
 
 .bold {
-  /* color: rgb(236, 0, 12); */
   font-weight: 500;
 }
 
 .profile {
   width: 90%;
+  text-align: right;
+  margin-top: 30px;
 }
 
 nav {
   box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.2);
 }
 
+.link {
+  color: #2b2f33;
+}
 .link:hover {
   cursor: pointer;
   color: rgb(255, 0, 21);
+  text-decoration: none;
 }
 
 .info-div {
@@ -44,10 +50,53 @@ nav {
 }
 
 .main-row {
-  margin-top: 100px;
+  margin-top: 80px;
 }
 
 .img-div {
   padding-right: 0;
   margin-right: 0;
+  text-align: right;
+}
+
+.bottom-row {
+  margin-top: 15px;
+}
+
+.techContainer {
+  padding: 0;
+  margin-bottom: 50px;
+}
+
+.footer {
+  background-color:#343a40;
+  position: fixed;
+  box-shadow: 2px 0 4px 2px rgba(0, 0, 0, 0.5);
+  bottom: 0;
+  margin-top: 50px;
+}
+.fab-div {
+  text-align: right;
+}
+
+.fab {
+  color: #7d868d;
+  font-size: 3rem;
+  padding: 15px;
+}
+
+
+
+.fab:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.tech {
+  font-size: 1.2rem;
+  padding: 5px;
+}
+
+hr {
+  margin-right: 60px;
 }
