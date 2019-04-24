@@ -2,7 +2,12 @@ import React from "react";
 
 function Animation() {
     return (
-        <div>
+        <div className="container">
+            <div className="row">
+                <div className="col-md-3">
+
+                </div>
+            </div>
         </div>
 
     )
