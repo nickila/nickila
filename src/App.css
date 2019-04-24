@@ -29,6 +29,21 @@ body {
   margin-top: 30px;
 }
 
+.color-profile {
+  width: 90%;
+  text-align: right;
+  margin-top: 30px;
+}
+.info-div {
+  padding-left: 15px;
+}
+
+.main-row {
+  margin-top: 80px;
+}
+
+
+
 nav {
   box-shadow: 0 2px 2px 2px rgba(0, 0, 0, 0.2);
 }
@@ -36,38 +51,41 @@ nav {
 .link {
   color: #2b2f33;
 }
+
 .link:hover {
   cursor: pointer;
   color: rgb(255, 0, 21);
   text-decoration: none;
 }
 
-.info-div {
-  border: 1px #000000 solid;
+.info-col {
   margin-left: 0;
   padding-left: 0;
-  height: 100%;
+  background-color: #e1e7ec;
 }
-
-.main-row {
-  margin-top: 80px;
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
 }
 
 .img-div {
+  position: relative;
   padding-right: 0;
+  padding-left: 0;
   margin-right: 0;
   text-align: right;
 }
 
-.bottom-row {
-  margin-top: 15px;
+.img-div:hover .overlay {
+  opacity: 1;
 }
-
-.techContainer {
-  padding: 0;
-  margin-bottom: 50px;
-}
-
 .footer {
   background-color:#343a40;
   position: fixed;
@@ -75,6 +93,7 @@ nav {
   bottom: 0;
   margin-top: 50px;
 }
+
 .fab-div {
   text-align: right;
 }
@@ -85,8 +104,6 @@ nav {
   padding: 15px;
 }
 
-
-
 .fab:hover {
   color: white;
   cursor: pointer;
@@ -95,8 +112,4 @@ nav {
 .tech {
   font-size: 1.2rem;
   padding: 5px;
-}
-
-hr {
-  margin-right: 60px;
 }
