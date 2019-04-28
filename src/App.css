@@ -41,7 +41,7 @@ body {
 }
 .info-overlay {
   position: absolute;
-  padding: 25px;
+  padding: 15px;
   top: 0;
   bottom: 0;
   left: 0;
@@ -67,12 +67,14 @@ nav {
 }
 
 .info {
-  font-size: 2vw;
+  font-size: 2.5vw;
   color: white;
   font-weight: 400;
+  line-height: 1;
 }
 
 .info-name {
+  padding-top: 0;
   font-size: 4vw;
   color: white;
 }
@@ -90,7 +92,7 @@ hr {
 
 .link:hover {
   cursor: pointer;
-  color: rgb(255, 0, 21);
+  color: rgb(228, 24, 51);
   text-decoration: none;
 }
 
@@ -170,4 +172,78 @@ hr {
 .about-bold {
   font-weight: 500;
   color: #2b2f33;
+}
+
+.animation-row {
+  text-align: center;
+}
+
+.deck-img {
+  width: 100%;
+  max-width: 200px;
+  border: 1px rgba(0, 30, 93, 0.15) solid;
+  margin: 0;
+  margin-right: 0;
+  margin-left: 0;
+  padding: 0;
+  opacity: 0.5;
+}
+
+.deck-img:hover {
+  opacity: 1;
+  border: 1px rgb(65, 183, 212) solid;
+  cursor: pointer;
+
+}
+
+.gif-col {
+  padding-left: 5px;
+  padding-right: 5px;
+  padding: 5px;
+  margin-top: 5px;
+}
+
+.stage {
+  max-width: 450px;
+}
+
+.deck-row {
+  margin-top: 150px;
+}
+
+@media all and (max-width: 991px) { 
+
+}
+@media all and (max-width: 768px) { 
+
+}
+@media all and (max-width: 480px) { 
+  .info {
+    font-size: 4vw;
+    margin: 0;
+    padding: 5px;
+  }
+
+  .info-overlay {
+    padding-left: 3px;
+    padding-right: 0;
+  }
+  hr {
+    margin: 0;
+  }
+
+  .info-name {
+    font-size: 6vw;
+  }
+
+  .name {
+    font-size: 18vw;
+  }
+  .main-row {
+    margin-top: 10vw;
+  }
+
+  .deck-img {
+    width: 100px;
+  }
 }
