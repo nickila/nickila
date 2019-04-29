@@ -37,7 +37,7 @@ class Animation extends Component {
         return (
             <div className="container" >
                 <div className="row">
-                    <div className="col-md-8">
+                    <div className="col-md-7">
                         <div className="container">
                             <div className="row main-row animation-row">
                                 <h1 className="name">Animation</h1>
@@ -49,35 +49,35 @@ class Animation extends Component {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-4">
+                    <div className="col-md-5">
                         <div className="container">
                             <div className="row deck-row">
-                                <div className="col-md-4 gif-col">
+                                <div className="col-4 gif-col">
                                     <img className="deck-img" src={facedoh} name={facedohGif} onClick={this.getGif} alt="face-doh gif" />
                                 </div>
-                                <div className="col-md-4 gif-col">
+                                <div className="col-4 gif-col">
                                     <img className="deck-img" src={chimney} name={chimneyGif} onClick={this.getGif} alt="chimney sweater gif" />
                                 </div>
-                                <div className="col-md-4 gif-col">
+                                <div className="col-4 gif-col">
                                     <img className="deck-img" src={dog} name={dogGif} onClick={this.getGif} alt="dog cartoon gif" />
                                 </div>
-                                <div className="col-md-4 gif-col">
+                                <div className="col-4 gif-col">
                                     <img className="deck-img" src={bird} name={birdGif} onClick={this.getGif} alt="bird flying gif" />
                                 </div>
-                                <div className="col-md-4 gif-col">
+                                <div className="col-4 gif-col">
                                     <img className="deck-img" src={puffies} onClick={this.getGif} name={puffiesGif}
                                         alt="puffy and hat gif" />
                                 </div>
-                                <div className="col-md-4 gif-col">
+                                <div className="col-4 gif-col">
                                     <img className="deck-img" src={gnome} name={gnomeGif} onClick={this.getGif} alt="gnome jumping gif" />
                                 </div>
-                                <div className="col-md-4 gif-col">
+                                <div className="col-4 gif-col">
                                     <img className="deck-img" src={name} name={nameGif} onClick={this.getGif} alt="brian nickila gif" />
                                 </div>
-                                <div className="col-md-4 gif-col">
+                                <div className="col-4 gif-col">
                                     <img className="deck-img" src={monter} name={monterGif} onClick={this.getGif} alt="monter with sword" />
                                 </div>
-                                <div className="col-md-4 gif-col">
+                                <div className="col-4 gif-col">
                                     <img className="deck-img" src={cupcake} name={cupcakeGif} onClick={this.getGif} alt="cupcake gif" />
                                 </div>
                             </div>

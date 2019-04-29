@@ -4,7 +4,11 @@ function Portfolio() {
     return (
         <div className="container">
             <div className="row main-row">
-                <div className="col-md-9 mx-auto site-col">
+                <div className="col-md-8">
+                    <h1 className="name">Portfolio</h1>
+                    <hr />
+                </div>
+                <div className="col-md-8 site-col">
                     <div className="site-div">
                         <img className="site-img" src="images/green-street.png" alt="..." />
                         <div className="info-overlay">
@@ -21,7 +25,7 @@ function Portfolio() {
                 </div>
             </div>
             <div className="row main-row">
-                <div className="col-md-9 mx-auto site-col">
+                <div className="col-md-8 site-col">
                     <div className="site-div">
                         <img className="site-img" src="images/hangman.png" alt="..." />
                         <div className="info-overlay">
@@ -39,7 +43,7 @@ function Portfolio() {
 
             </div>
             <div className="row main-row">
-                <div className="col-md-9 mx-auto site-col">
+                <div className="col-md-8 site-col">
                     <div className="site-div">
                         <img className="site-img" src="images/our_house.png" alt="..." />
                         <div className="info-overlay">
@@ -56,7 +60,7 @@ function Portfolio() {
                 </div>
             </div>
             <div className="row main-row">
-                <div className="col-md-9 mx-auto site-col">
+                <div className="col-md-8 site-col">
                     <div className="site-div">
                         <img className="site-img" src="images/doodle_poots.png" alt="..." />
                         <div className="info-overlay">
@@ -73,7 +77,7 @@ function Portfolio() {
                 </div>
             </div>
             <div className="row main-row">
-                <div className="col-md-9 mx-auto site-col">
+                <div className="col-md-8 site-col">
                     <div className="site-div">
                         <img className="site-img" src="images/bamazon.png" alt="..." />
                         <div className="info-overlay">
@@ -90,7 +94,7 @@ function Portfolio() {
                 </div>
             </div>
             <div className="row main-row">
-                <div className="col-md-9 mx-auto site-col">
+                <div className="col-md-8 site-col">
                     <div className="site-div">
                         <img className="site-img" src="images/train_sched.png" alt="..." />
                         <div className="info-overlay">

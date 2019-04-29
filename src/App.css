@@ -193,7 +193,6 @@ hr {
   opacity: 1;
   border: 1px rgb(65, 183, 212) solid;
   cursor: pointer;
-
 }
 
 .gif-col {
@@ -208,14 +207,12 @@ hr {
 }
 
 .deck-row {
-  margin-top: 150px;
+  margin-top: 220px;
 }
-
-@media all and (max-width: 991px) { 
-
-}
-@media all and (max-width: 768px) { 
-
+@media all and (max-width: 767px) {
+  .deck-row {
+    margin-top: 20px;
+  }
 }
 @media all and (max-width: 480px) { 
   .info {
