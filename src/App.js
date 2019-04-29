@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import Name from "./components/Name";
+import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Portfolio from "./components/Portfolio";
@@ -14,7 +14,7 @@ class App extends Component {
         <div>
           <Navbar />
           <Switch>
-            <Route exact path="/" component={Name} />
+            <Route exact path="/" component={Home} />
             <Route exact path="/animation" component={Animation} />
             <Route exact path="/portfolio" component={Portfolio} />
           </Switch>

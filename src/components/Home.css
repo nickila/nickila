@@ -1,0 +1,29 @@
+.about {
+    padding: 5px;
+    text-align: justify;
+    font-size: 1.2rem;
+}
+  
+  
+.profile {
+    width: 90%;
+    text-align: right;
+    margin-top: 30px;
+}
+  
+.color-profile {
+    width: 90%;
+    text-align: right;
+    margin-top: 30px;
+}
+  
+.about-bold {
+    font-weight: 500;
+    color: #2b2f33;
+}  
+
+.tech {
+    font-size: 1.2rem;
+    padding: 5px;
+}
+  

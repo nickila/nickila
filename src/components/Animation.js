@@ -40,7 +40,7 @@ class Animation extends Component {
                     <div className="col-md-7">
                         <div className="container">
                             <div className="row main-row animation-row">
-                                <h1 className="name">Animation</h1>
+                                <h1 className="header">Animation</h1>
                             </div>
                             <div className='row'>
                                 <div>

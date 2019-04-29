@@ -6,7 +6,7 @@ function Portfolio() {
         <div className="container">
             <div className="row main-row">
                 <div className="col-md-8">
-                    <h1 className="name">Portfolio</h1>
+                    <h1 className="header">Portfolio</h1>
                     <hr />
                 </div>
                 <div className="col-md-8 site-col">
