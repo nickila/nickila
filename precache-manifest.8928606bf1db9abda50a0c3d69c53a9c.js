@@ -1,23 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "d8500daf13692b29c154e2adbd05bd12",
-    "url": "/portfolio-react/static/media/dogSQ.d8500daf.jpg"
+    "revision": "dd6b9a83feb19882b7ee4e48e49d3e51",
+    "url": "/portfolio-react/static/media/face-doh.dd6b9a83.jpg"
   },
   {
-    "revision": "1fd1bde9ae84a0c88ab7",
-    "url": "/portfolio-react/static/css/main.d353f6d2.chunk.css"
+    "revision": "6be7cd08cba8f23a053e",
+    "url": "/portfolio-react/static/css/main.dc8dc810.chunk.css"
   },
   {
     "revision": "11528ddda4154ce1e32b",
     "url": "/portfolio-react/static/js/runtime~main.72b3206a.js"
   },
   {
-    "revision": "c6ba31ea15bf3de85eb9",
-    "url": "/portfolio-react/static/js/2.920dc233.chunk.js"
+    "revision": "ff754d9bfd5df4eaca15",
+    "url": "/portfolio-react/static/js/2.ec3506b8.chunk.js"
   },
   {
     "revision": "ecb18bc8cef7ad36adc2b64776407f6a",
     "url": "/portfolio-react/static/media/monter.ecb18bc8.gif"
+  },
+  {
+    "revision": "d5e6af4b11e0c4f061579a6d085ba9b8",
+    "url": "/portfolio-react/static/media/profile1.d5e6af4b.png"
+  },
+  {
+    "revision": "abdfe3f8640f8823266d73d7225641d2",
+    "url": "/portfolio-react/static/media/profile2.abdfe3f8.png"
   },
   {
     "revision": "bff76d76789f39f47876b40153eff381",
@@ -52,12 +60,12 @@ self.__precacheManifest = [
     "url": "/portfolio-react/static/media/chimneysquare.4e8272bc.jpg"
   },
   {
-    "revision": "dd6b9a83feb19882b7ee4e48e49d3e51",
-    "url": "/portfolio-react/static/media/face-doh.dd6b9a83.jpg"
+    "revision": "6be7cd08cba8f23a053e",
+    "url": "/portfolio-react/static/js/main.9415803d.chunk.js"
   },
   {
-    "revision": "1fd1bde9ae84a0c88ab7",
-    "url": "/portfolio-react/static/js/main.394fdb54.chunk.js"
+    "revision": "d8500daf13692b29c154e2adbd05bd12",
+    "url": "/portfolio-react/static/media/dogSQ.d8500daf.jpg"
   },
   {
     "revision": "67e1d39879204ca6688f686101e9c794",
@@ -112,7 +120,7 @@ self.__precacheManifest = [
     "url": "/portfolio-react/static/media/cupcakescream.6441a8ae.gif"
   },
   {
-    "revision": "b4cd6a3b44221da5ea681afd6f24476f",
+    "revision": "f3600bc7492096c7fc1c18b19373c021",
     "url": "/portfolio-react/index.html"
   }
 ];
