@@ -1,23 +1,47 @@
 self.__precacheManifest = [
   {
-    "revision": "894f844d1f093abd3e56cfd5a8d6c01f",
-    "url": "/portfolio-react/static/media/name.894f844d.jpg"
+    "revision": "d8500daf13692b29c154e2adbd05bd12",
+    "url": "/portfolio-react/static/media/dogSQ.d8500daf.jpg"
   },
   {
-    "revision": "9a1680f85da13a12caf0",
-    "url": "/portfolio-react/static/css/main.fb651ac1.chunk.css"
+    "revision": "1fd1bde9ae84a0c88ab7",
+    "url": "/portfolio-react/static/css/main.d353f6d2.chunk.css"
   },
   {
     "revision": "11528ddda4154ce1e32b",
     "url": "/portfolio-react/static/js/runtime~main.72b3206a.js"
   },
   {
-    "revision": "4c103a169a5773b5fc41",
-    "url": "/portfolio-react/static/js/2.e46d6327.chunk.js"
+    "revision": "c6ba31ea15bf3de85eb9",
+    "url": "/portfolio-react/static/js/2.920dc233.chunk.js"
   },
   {
     "revision": "ecb18bc8cef7ad36adc2b64776407f6a",
     "url": "/portfolio-react/static/media/monter.ecb18bc8.gif"
+  },
+  {
+    "revision": "bff76d76789f39f47876b40153eff381",
+    "url": "/portfolio-react/static/media/green-street.bff76d76.png"
+  },
+  {
+    "revision": "00d64330290f5758e3e22043aefbb267",
+    "url": "/portfolio-react/static/media/hangman.00d64330.png"
+  },
+  {
+    "revision": "8d5960f11fe18cf8d7dc1b3c9b7ee947",
+    "url": "/portfolio-react/static/media/our_house.8d5960f1.png"
+  },
+  {
+    "revision": "c2d7e0af93d558a9b84b1eebfc540100",
+    "url": "/portfolio-react/static/media/doodle_poots.c2d7e0af.png"
+  },
+  {
+    "revision": "d54334c5d4a87c49e98086acf0f5e6e0",
+    "url": "/portfolio-react/static/media/bamazon.d54334c5.png"
+  },
+  {
+    "revision": "c0dd5ad1d959034ddcb1407965e7988b",
+    "url": "/portfolio-react/static/media/train_sched.c0dd5ad1.png"
   },
   {
     "revision": "f0c8bc98bcb42dac7af488e6a4f084c1",
@@ -32,8 +56,8 @@ self.__precacheManifest = [
     "url": "/portfolio-react/static/media/face-doh.dd6b9a83.jpg"
   },
   {
-    "revision": "d8500daf13692b29c154e2adbd05bd12",
-    "url": "/portfolio-react/static/media/dogSQ.d8500daf.jpg"
+    "revision": "1fd1bde9ae84a0c88ab7",
+    "url": "/portfolio-react/static/js/main.394fdb54.chunk.js"
   },
   {
     "revision": "67e1d39879204ca6688f686101e9c794",
@@ -44,8 +68,8 @@ self.__precacheManifest = [
     "url": "/portfolio-react/static/media/bird.dc3e8a46.jpg"
   },
   {
-    "revision": "9a1680f85da13a12caf0",
-    "url": "/portfolio-react/static/js/main.9c79acbd.chunk.js"
+    "revision": "894f844d1f093abd3e56cfd5a8d6c01f",
+    "url": "/portfolio-react/static/media/name.894f844d.jpg"
   },
   {
     "revision": "adca43adfba342e1db31ac5bbf57284d",
@@ -88,7 +112,7 @@ self.__precacheManifest = [
     "url": "/portfolio-react/static/media/cupcakescream.6441a8ae.gif"
   },
   {
-    "revision": "da211cf2f7d137c9c15b75f349fe9306",
+    "revision": "b4cd6a3b44221da5ea681afd6f24476f",
     "url": "/portfolio-react/index.html"
   }
 ];
