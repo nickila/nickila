@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/nickila/static/media/name.894f844d.jpg"
   },
   {
-    "revision": "88e1c2b1c3bb877e64fa",
-    "url": "/nickila/static/css/main.c445d563.chunk.css"
+    "revision": "8257e19ece2342c2fda2",
+    "url": "/nickila/static/css/main.fb651ac1.chunk.css"
   },
   {
     "revision": "bb70b7fafefeb8ff9fb8",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/nickila/static/media/bird.dc3e8a46.jpg"
   },
   {
-    "revision": "88e1c2b1c3bb877e64fa",
+    "revision": "8257e19ece2342c2fda2",
     "url": "/nickila/static/js/main.e45b8c06.chunk.js"
   },
   {
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/nickila/static/media/cupcakescream.6441a8ae.gif"
   },
   {
-    "revision": "21dbc67ca58088ef03416bf137c1e43c",
+    "revision": "850f54dc2bd64c5863f1a3f67b4f5f48",
     "url": "/nickila/index.html"
   }
 ];

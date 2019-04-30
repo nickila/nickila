@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nickila/precache-manifest.8dea3269a1e6e5b369a62336cdd4b2fe.js"
+  "/nickila/precache-manifest.9fcb90d3e71e18716eae1e935abdafe3.js"
 );
 
 workbox.clientsClaim();
