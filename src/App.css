@@ -13,7 +13,6 @@ body {
   color: #3f4d5a;
 }
 
-
 .main-row {
   margin-top: 80px;
 }
@@ -25,22 +24,12 @@ nav {
 hr {
   border-color: rgba(255, 255, 255, 0.5);
 }
-.right {
-  color: white;
-  font-weight: 500;
-  text-align: right;
-  position: absolute;
-  bottom: 10px;
-  right: 30px;
-}
 
 .link:hover {
   cursor: pointer;
   color: rgb(228, 24, 51);
   text-decoration: none;
 }
-
-
 
 .overlay {
   position: absolute;
@@ -89,15 +78,7 @@ hr {
   cursor: pointer;
 }
 
-.tech {
-  font-size: 1.2rem;
-  padding: 5px;
-}
 
-.about-bold {
-  font-weight: 500;
-  color: #2b2f33;
-}
 
 .animation-row {
   text-align: center;
