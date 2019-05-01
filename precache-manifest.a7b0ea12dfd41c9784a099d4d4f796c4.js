@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/portfolio-react/static/media/cupcakescream.6441a8ae.gif"
   },
   {
-    "revision": "8b8e8ada91a28a768effcd5b04ea0369",
+    "revision": "95706efede79a4da73564616030da506",
     "url": "/portfolio-react/index.html"
   }
 ];
