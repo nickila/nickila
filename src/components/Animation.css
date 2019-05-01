@@ -1,0 +1,51 @@
+.deck-row {
+    background-color: rgb(246, 249, 250);
+    border-radius: 2px;
+    padding: 10px;
+    margin-top: 210px;
+    border: 1px rgb(230, 234, 236) solid;
+}
+
+
+.animation-row {
+    text-align: center;
+}
+  
+.deck-img {
+    width: 100%;
+    max-width: 200px;
+    border: 1px rgba(0, 30, 93, 0.15) solid;
+    margin: 0;
+    margin-right: 0;
+    margin-left: 0;
+    padding: 0;
+    opacity: 0.6;
+}
+
+.deck-img:hover {
+    opacity: 1;
+    border: 1px rgb(65, 183, 212) solid;
+    cursor: pointer;
+}
+
+.gif-col {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+.stage {
+    max-width: 450px;
+}
+
+@media all and (max-width: 767px) {
+    .deck-row {
+        margin-top: 20px;
+    }
+}
+@media all and (max-width: 480px) { 
+    .deck-img {
+        width: 100px;
+    }
+}

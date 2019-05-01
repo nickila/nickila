@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import "./Animation.css";
+
 import puffies from "../animation/puffies.jpg";
 import chimney from "../animation/chimneysquare.jpg";
 import facedoh from "../animation/face-doh.jpg";
