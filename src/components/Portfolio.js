@@ -15,7 +15,7 @@ function Portfolio() {
                     <h1 className="header">Portfolio</h1>
                     <hr />
                 </div>
-                <div className="col-md-8 site-col">
+                <div className="col-md-12 site-col">
                     <div className="site-div">
                         <img className="site-img" src={GreenStreet} alt="green street" />
                         <div className="info-overlay">
@@ -32,7 +32,7 @@ function Portfolio() {
                 </div>
             </div>
             <div className="row main-row">
-                <div className="col-md-8 site-col">
+                <div className="col-md-12 site-col">
                     <div className="site-div">
                         <img className="site-img" src={Hangman} alt="hangman" />
                         <div className="info-overlay">
@@ -50,7 +50,7 @@ function Portfolio() {
 
             </div>
             <div className="row main-row">
-                <div className="col-md-8 site-col">
+                <div className="col-md-12 site-col">
                     <div className="site-div">
                         <img className="site-img" src={OurHouse} alt="our house" />
                         <div className="info-overlay">
@@ -67,7 +67,7 @@ function Portfolio() {
                 </div>
             </div>
             <div className="row main-row">
-                <div className="col-md-8 site-col">
+                <div className="col-md-12 site-col">
                     <div className="site-div">
                         <img className="site-img" src={DoodlePoots} alt="doodle poots" />
                         <div className="info-overlay">
@@ -84,7 +84,7 @@ function Portfolio() {
                 </div>
             </div>
             <div className="row main-row">
-                <div className="col-md-8 site-col">
+                <div className="col-md-12 site-col">
                     <div className="site-div">
                         <img className="site-img" src={Bamazon} alt="bamazon" />
                         <div className="info-overlay">
@@ -101,7 +101,7 @@ function Portfolio() {
                 </div>
             </div>
             <div className="row main-row">
-                <div className="col-md-8 site-col">
+                <div className="col-md-12 site-col">
                     <div className="site-div">
                         <img className="site-img" src={TrainScheduler} alt="train scheduler" />
                         <div className="info-overlay">

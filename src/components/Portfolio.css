@@ -1,19 +1,20 @@
 .info {
-    font-size: 2vw;
+    font-size: 3vw;
     color: white;
     font-weight: 300;
-    line-height: 1;
+    line-height: 1.2;
+    padding-left: 20px;
 }
   
-  .bold {
+.bold {
     font-weight: 500;
     padding-right: 10px;
     color: white;
 }
   
-  .info-name {
-    padding-top: 0;
-    font-size: 3.2vw;
+.info-name {
+    padding: 20px;
+    font-size: 5vw;
     color: white;
 }
 
@@ -67,22 +68,31 @@
     background-color: #ece1e2;
 }
 
-  @media all and (max-width: 480px) { 
+@media all and (max-width: 767px) { 
     .info {
-      font-size: 4vw;
-      margin: 0;
-      padding: 5px;
+        font-size: 3vw;
+        margin: 0;
+        padding: 5px;
+        line-height: 1;
     }
-  
+
     .info-overlay {
-      padding-left: 3px;
-      padding-right: 0;
+        padding-left: 3px;
+        padding-right: 0;
     }
     hr {
-      margin: 0;
+        margin: 0;
     }
-  
+
     .info-name {
-      font-size: 6vw;
+        font-size: 6vw;
+        padding: 5px;
     }
-  }
+}
+
+@media all and (max-width: 604px) { 
+    .info {
+        font-size: 3.5vw;
+    }
+
+}
