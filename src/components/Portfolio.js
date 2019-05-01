@@ -13,7 +13,6 @@ function Portfolio() {
             <div className="row main-row">
                 <div className="col-md-12">
                     <h1 className="header">Portfolio</h1>
-                    <hr />
                 </div>
                 <div className="col-md-12 site-col">
                     <div className="site-div">
