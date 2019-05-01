@@ -11,7 +11,7 @@ function Portfolio() {
     return (
         <div className="container">
             <div className="row main-row">
-                <div className="col-md-8">
+                <div className="col-md-12">
                     <h1 className="header">Portfolio</h1>
                     <hr />
                 </div>
@@ -86,7 +86,7 @@ function Portfolio() {
             <div className="row main-row">
                 <div className="col-md-8 site-col">
                     <div className="site-div">
-                        <img className="site-img" src={Bamazon} alt="..." />
+                        <img className="site-img" src={Bamazon} alt="bamazon" />
                         <div className="info-overlay">
                             <h3 className="info-name">Bamazon</h3>
                             <hr />
