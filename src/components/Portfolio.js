@@ -1,5 +1,11 @@
 import React from "react";
 import "./Portfolio.css";
+import GreenStreet from "../images/green-street.png";
+import Hangman from "../images/hangman.png";
+import OurHouse from "../images/our_house.png";
+import DoodlePoots from "../images/doodle_poots.png";
+import Bamazon from "../images/bamazon.png";
+import TrainScheduler from "../images/train_sched.png";
 
 function Portfolio() {
     return (
@@ -11,7 +17,7 @@ function Portfolio() {
                 </div>
                 <div className="col-md-8 site-col">
                     <div className="site-div">
-                        <img className="site-img" src="images/green-street.png" alt="..." />
+                        <img className="site-img" src={GreenStreet} alt="green street" />
                         <div className="info-overlay">
                             <h3 className="info-name">Green Street</h3>
                             <hr />
@@ -28,7 +34,7 @@ function Portfolio() {
             <div className="row main-row">
                 <div className="col-md-8 site-col">
                     <div className="site-div">
-                        <img className="site-img" src="images/hangman.png" alt="..." />
+                        <img className="site-img" src={Hangman} alt="hangman" />
                         <div className="info-overlay">
                             <h3 className="info-name">Hangman</h3>
                             <hr />
@@ -46,7 +52,7 @@ function Portfolio() {
             <div className="row main-row">
                 <div className="col-md-8 site-col">
                     <div className="site-div">
-                        <img className="site-img" src="images/our_house.png" alt="..." />
+                        <img className="site-img" src={OurHouse} alt="our house" />
                         <div className="info-overlay">
                             <h3 className="info-name">Our House</h3>
                             <hr />
@@ -63,7 +69,7 @@ function Portfolio() {
             <div className="row main-row">
                 <div className="col-md-8 site-col">
                     <div className="site-div">
-                        <img className="site-img" src="images/doodle_poots.png" alt="..." />
+                        <img className="site-img" src={DoodlePoots} alt="doodle poots" />
                         <div className="info-overlay">
                             <h3 className="info-name">Doodle Poots</h3>
                             <hr />
@@ -80,7 +86,7 @@ function Portfolio() {
             <div className="row main-row">
                 <div className="col-md-8 site-col">
                     <div className="site-div">
-                        <img className="site-img" src="images/bamazon.png" alt="..." />
+                        <img className="site-img" src={Bamazon} alt="..." />
                         <div className="info-overlay">
                             <h3 className="info-name">Bamazon</h3>
                             <hr />
@@ -97,7 +103,7 @@ function Portfolio() {
             <div className="row main-row">
                 <div className="col-md-8 site-col">
                     <div className="site-div">
-                        <img className="site-img" src="images/train_sched.png" alt="..." />
+                        <img className="site-img" src={TrainScheduler} alt="train scheduler" />
                         <div className="info-overlay">
                             <h3 className="info-name">Train Scheduler</h3>
                             <hr />

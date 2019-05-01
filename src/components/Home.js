@@ -1,6 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./Home.css";
+import Profile from "../images/profile1.png";
+import ProfileColor from "../images/profile2.png";
 
 function Home() {
     return (
@@ -12,9 +14,9 @@ function Home() {
                     <p className="tech"><span className="about-bold">Technologies:</span> React, JavaScript, HTML, CSS, jQuery, Bootstrap, MongoDB, MySQL, Express, Node.js, Sequelize, Mongoose, Photoshop, Illustrator & Flash</p>
                 </div>
                 <div className="col-md-4 img-div">
-                    <img className="profile" src="images/profile1.png" alt="brian nickila sketch" />
+                    <img className="profile" src={Profile} alt="brian nickila sketch" />
                     <div className="overlay">
-                        <img className="color-profile" src="images/profile2.png" alt="brian nickila colored sketch" />
+                        <img className="color-profile" src={ProfileColor} alt="brian nickila colored sketch" />
                     </div>
                 </div>
             </div>
