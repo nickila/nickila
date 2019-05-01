@@ -120,7 +120,7 @@ self.__precacheManifest = [
     "url": "/static/media/cupcakescream.6441a8ae.gif"
   },
   {
-    "revision": "454bcdbb3d8d4ff2af963c4482661c1c",
+    "revision": "637237bb4ef0d0cb08a042a100b8e15f",
     "url": "/index.html"
   }
 ];
