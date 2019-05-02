@@ -1,5 +1,5 @@
 {
-  "main.css": "/static/css/main.cf7f9afb.chunk.css",
+  "main.css": "/static/css/main.459aa423.chunk.css",
   "main.js": "/static/js/main.410545e4.chunk.js",
   "main.js.map": "/static/js/main.410545e4.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
@@ -7,9 +7,9 @@
   "static/js/2.ec3506b8.chunk.js": "/static/js/2.ec3506b8.chunk.js",
   "static/js/2.ec3506b8.chunk.js.map": "/static/js/2.ec3506b8.chunk.js.map",
   "index.html": "/index.html",
-  "precache-manifest.0060fbbae8ba1eda31c8aea9c17b1269.js": "/precache-manifest.0060fbbae8ba1eda31c8aea9c17b1269.js",
+  "precache-manifest.32f3fbc356f0250152d7d37e125cfc42.js": "/precache-manifest.32f3fbc356f0250152d7d37e125cfc42.js",
   "service-worker.js": "/service-worker.js",
-  "static/css/main.cf7f9afb.chunk.css.map": "/static/css/main.cf7f9afb.chunk.css.map",
+  "static/css/main.459aa423.chunk.css.map": "/static/css/main.459aa423.chunk.css.map",
   "static/media/bamazon.png": "/static/media/bamazon.d54334c5.png",
   "static/media/bird.gif": "/static/media/bird.07dc7dc1.gif",
   "static/media/bird.jpg": "/static/media/bird.dc3e8a46.jpg",
