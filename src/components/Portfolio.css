@@ -11,11 +11,20 @@
     padding-right: 10px;
     color: white;
 }
+
+.first-row {
+    margin-top: 30px;
+}
   
 .info-name {
     padding: 20px;
     font-size: 5vw;
     color: white;
+}
+
+hr {
+    border-color: rgba(255, 255, 255, 0.5);
+
 }
 
 .info-overlay {
@@ -36,7 +45,11 @@
 .site-div:hover .info-overlay {
     opacity: 1;
 }
-  .site-img {
+
+.site-div:active {
+    opacity: 1;
+}
+.site-img {
     width: 100%;
     margin: 0;
     padding: 0;
