@@ -19,14 +19,14 @@ function Portfolio() {
                 <div className="col-md-12 site-col">
                     <div className="site-div">
                         <img className="site-img" src={GreenStreet} alt="green street" />
-                        <div className="info-overlay">
+                        <div className="info-overlay" onclick="" onclick="">
                             <h3 className="info-name">Green Street</h3>
                             <hr />
                             <p className="info"><span className="bold">Role:</span> Original Concept, Front-End, Controllers</p>
                             <p className="info"><span className="bold">Overview:</span> An app that allows gardeners to connect to form miniature farmer's markets and for consumers to find the markets' homepages.</p>
                             <p className="info"><span className="bold">Technologies:</span> MERN (MongoDB, Express, React & Node.js)</p>
                             <div className="info right">
-                                <a className="ext-link" target="_blank" href="https://github.com/nickila/green-street">Github Repo</a> &nbsp; <a className="ext-link" target="_blank" href="http://green-street.herokuapp.com/">Website</a>
+                                <a className="ext-link" target="_blank" href="https://github.com/nickila/green-street">Github Repo</a>
                             </div>
                         </div>
                     </div>
@@ -36,7 +36,7 @@ function Portfolio() {
                 <div className="col-md-12 site-col">
                     <div className="site-div">
                         <img className="site-img" src={DoodlePoots} alt="doodle poots" />
-                        <div className="info-overlay">
+                        <div className="info-overlay" onclick="">
                             <h3 className="info-name">Doodle Poots</h3>
                             <hr />
                             <p className="info"><span className="bold">Role:</span> Sole Developer</p>
@@ -53,7 +53,7 @@ function Portfolio() {
                 <div className="col-md-12 site-col">
                     <div className="site-div">
                         <img className="site-img" src={Hangman} alt="hangman" />
-                        <div className="info-overlay">
+                        <div className="info-overlay" onclick="">
                             <h3 className="info-name">Hangman</h3>
                             <hr />
                             <p className="info"><span className="bold">Role: </span> Sole Developer</p>
@@ -71,7 +71,7 @@ function Portfolio() {
                 <div className="col-md-12 site-col">
                     <div className="site-div">
                         <img className="site-img" src={OurHouse} alt="our house" />
-                        <div className="info-overlay">
+                        <div className="info-overlay" onclick="">
                             <h3 className="info-name">Our House</h3>
                             <hr />
                             <p className="info"><span className="bold">Role:</span> Front End, APIs</p>
@@ -89,7 +89,7 @@ function Portfolio() {
                 <div className="col-md-12 site-col">
                     <div className="site-div">
                         <img className="site-img" src={Bamazon} alt="bamazon" />
-                        <div className="info-overlay">
+                        <div className="info-overlay" onclick="">
                             <h3 className="info-name">Bamazon</h3>
                             <hr />
                             <p className="info"><span className="bold">Role:</span> Sole Developer</p>
@@ -106,7 +106,7 @@ function Portfolio() {
                 <div className="col-md-12 site-col">
                     <div className="site-div">
                         <img className="site-img" src={TrainScheduler} alt="train scheduler" />
-                        <div className="info-overlay">
+                        <div className="info-overlay" onclick="">
                             <h3 className="info-name">Train Scheduler</h3>
                             <hr />
                             <p className="info"><span className="bold">Role:</span> Sole Developer</p>
