@@ -46,9 +46,6 @@ hr {
     opacity: 1;
 }
 
-.site-div:active {
-    opacity: 1;
-}
 .site-img {
     width: 100%;
     margin: 0;
